@@ -1,0 +1,18 @@
+<div ng-controller="View1Ctrl">
+
+<font size="7"><center>To do List </center></font>
+
+<table class="table">
+
+    <tr class="success" ng-repeat="x in user">
+        <td ng-if="$odd" class="success">{{x}}</td>
+
+        <td ng-if="$even" class="danger">{{x}}</td>
+        <td>Doe</td>
+        <td>john@example.com</td>
+    </tr>
+
+
+    </table>
+
+</div>
