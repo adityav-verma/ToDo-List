@@ -1,7 +1,7 @@
-ToDo - List
+# ToDo - List
 Helps you keep track of things
 
-Features:
+## Features:
 User accounts
 Add tasks
 Checkout tasks
